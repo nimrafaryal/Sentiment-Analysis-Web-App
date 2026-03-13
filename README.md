@@ -1,2 +1,14 @@
-# Sentiment-Analysis-Web-App
-A simple Sentiment Analysis web app built using Python, Streamlit, and Hugging Face Transformers. It analyzes user-entered text and predicts whether the sentiment is Positive or Negative, along with a confidence score. Designed as an interactive NLP project demonstrating real-time text sentiment classification.
+---
+title: Sentement Analysis
+emoji: 🔥
+colorFrom: yellow
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.47.0
+app_file: app.py
+pinned: false
+license: mit
+short_description: It will analyze the sentement of the text givem.
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
